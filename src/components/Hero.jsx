@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { FiArrowRight, FiPlay } from 'react-icons/fi';
-import { Button } from '../components/ui/Button';
+import { Button } from '../components/ui/button';
 import { Badge } from '../components/ui/Badge';
 
 const Hero = () => {
