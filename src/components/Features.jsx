@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { FiBookOpen, FiUsers, FiAward, FiShield } from 'react-icons/fi';
-import { Card } from '../components/ui/Card';
+import { Card } from '../components/ui/card';
 
 const Features = () => {
     const features = [

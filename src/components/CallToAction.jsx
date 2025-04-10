@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Button } from '../components/ui/Button';
+import { Button } from '../components/ui/button';
 import { FiArrowRight } from 'react-icons/fi';
 
 const CallToAction = () => {
